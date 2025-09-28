@@ -90,20 +90,6 @@
 └── README.md                # 项目说明文档
 ```
 
-## 🚀 打包说明
-
-项目已配置好PyInstaller打包脚本，可以方便地将程序打包成Windows可执行文件：
-
-```powershell
-# 使用已有的spec文件打包
-pyinstaller picture_converter.spec
-
-# 或使用中文spec文件
-pyinstaller 图片批量转换器.spec
-```
-
-打包后的可执行文件将位于 `dist\图片批量转换器` 目录下。
-
 ## 🤝 贡献指南
 
 欢迎对本项目进行贡献：
