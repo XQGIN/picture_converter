@@ -21,7 +21,8 @@
 
 ## 🖼️ 程序截图
 
-![程序图标](resources/icon.png)
+![](https://dl2.img.timecdn.cn/2025/09/27/-2025-09-27-170630.png)
+![](https://dl.img.timecdn.cn/2025/09/27/-2025-09-27-170843.png)
 
 ## 📋 系统要求
 
@@ -86,8 +87,6 @@
 │   └── icon.png             # 应用图标
 ├── settings.json            # 配置文件
 ├── requirements.txt         # 依赖库列表
-├── picture_converter.spec   # PyInstaller打包配置
-├── 图片批量转换器.spec        # PyInstaller中文打包配置
 └── README.md                # 项目说明文档
 ```
 
