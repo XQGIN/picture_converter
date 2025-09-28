@@ -1,0 +1,11 @@
+{
+    "overwrite_files": false,
+    "theme": "浅色",
+    "glass_transparency": 190,
+    "output_format": "BMP",
+    "output_quality": 100,
+    "output_width": 800,
+    "output_height": 600,
+    "resize_option": "none",
+    "default_output_dir": "D:/图片"
+}
